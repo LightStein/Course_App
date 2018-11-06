@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Course_App</string>
+    <string name="customize_dashboard">Customize Dashboard</string>
 </resources>
